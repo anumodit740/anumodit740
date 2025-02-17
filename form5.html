@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <form action="urlserverlink">
+        <fieldset>
+            <legend>IIT JEE Registration Form</legend>
+         <!--Name-->
+         <label for="first">Full Name:</label>
+         <input type="text" id="first" name="fname">
+         <br><br>
+         <!--Email-->
+         <label for="second">Email:</label>
+         <input type="email" id="second" name="email" >
+         <br><br>
+         <!--Phone-->
+         <label for="third">Phone Number:</label>
+         <input type="tel" id="third" name="phonenumber">
+         <br><br>
+         <!--Password-->
+         <label for="fourth">Password:</label>
+         <input type="password" id="fourth" name="password" value="asaf123145">
+         <br><br>
+         <!--Gender-->
+         <label>Gender:</label>
+         <input type="radio" id="fourth" name="Gender" value="Male">
+         <label for="fourth">Male</label>
+         <input type="radio" id="fifth" name="Gender" value="Female">
+         <label for="fifth">Female</label>
+         <input type="radio" id="other" name="Gender" value="Other">
+         <label for="other">other</label>
+         <br><br>
+         <!--DOB-->
+         <label for="sixth">DOB:</label>
+         <input type="date" id="sixth" name="dob" min="2001-01-01" max="2005-12-31">
+         <br><br>
+         <!--School Name-->
+         <label for="school">School Name:</label>
+         <input type="text" id="school" name="fnsme">
+         <br><br>
+         <!--Board-->
+         <label for="ggg">Board:</label>
+         <select name="board" id="ggg">
+            <option value="" disabled selected>Select your board</option>
+            <option value="CBSE">CBSE</option>
+            <option value="UP">UP</option>
+            <option value="Bihar Bord">Bihar Board</option>
+            <option value="ICSE">ICSE</option>
+            <option value="MB">Maharashtra Board</option>
+         </select>
+         <br><br>
+         <!--Year of passing-->
+         <label for="hhh">Year of passing:</label>
+         <input type="number" id="hhh" name="year" min="2023" max="2025">
+         <br><br>
+         <!--Exam Center-->
+         <label for="cenetr">Exam Center:</label>
+         <select id="center" name="examcenetr">
+            <option value="" disabled selected>select center</option>
+            <option value="Delhi">Delhi</option>
+            <option value="Lucknow">Lucknow</option>
+            <option value="Kolkata">Kolkata</option>
+            <option value="Bangalore">Bangalore</option>
+            <option value="Mumbai">Mumbai</option>
+            <option value=">Hyderabad">Hyderabad</option>
+         </select>
+         <br><br>
+         <button>Register</button>
+        </fieldset>
+    </form>
+</body>
+</html>
