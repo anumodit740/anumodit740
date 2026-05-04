@@ -1,72 +1,117 @@
+<h2>Hey, 🙋🏼‍♂️</h2>
+<p>I'm Anumodit 👨‍💻, an aspiring <b>Data Professional</b> with a passion for data, systems, and logic-heavy problems.</p>
+<p>From writing complex SQL queries to designing data pipelines — I enjoy building things that scale and make decisions smarter.</p>
+<p><b>All I need: Coffee ☕ + SQL editor + a tough problem to solve 🧠</b></p>
 
-👋 Hey, I'm Anumodit 
+<hr />
 
-🎓 Engineering Student (2027 Batch)
-📊 Aspiring Data Analyst → Data Engineer → Data Scientist
-💡 Passionate about solving real-world problems using data, tech, and logic
+<p><b>Your watch 👀 will be counted 😁</b></p>
 
-🧠 About Me
+![](https://komarev.com/ghpvc/?username=anumodit740&color=brightgreen)
 
-I love working with data, systems, and logic-heavy problems.
-From writing complex SQL queries to designing data pipelines — I enjoy building things that scale and make decisions smarter.
+<hr />
 
-☕ All I need: Coffee + SQL editor + a tough problem
+### 💪 Languages & Core Skills
 
-💪 Languages I Work With
-C++   Python   SQL (MySQL)   JavaScript
-🚀 Tools, Technologies & Frameworks
-📊 Data & Analytics
-Power BI   Excel   Pandas   NumPy
-🗄️ Databases
-MySQL   PostgreSQL   MongoDB   SQLite
-⚙️ Data Engineering Concepts
-ETL Pipelines   Data Warehousing   Medallion Architecture
-Indexing   Query Optimization   Execution Plans
-🌐 Development (Supporting Skills)
-HTML5   CSS3   React   Node.js
-🏗️ What I'm Currently Building
-📦 SQL Data Warehouse Project (Medallion Architecture)
-Bronze → Silver → Gold layers
-Real-world data modeling
-Query optimization & indexing
-Industry-grade pipeline thinking
-📈 What I’m Learning Right Now
-Advanced SQL (Window Functions, Gaps & Islands, Optimization)
-Data Engineering (Batch + Pipeline Design)
-Power BI (Dashboarding + Business Insights)
-System Design for Data Systems
-🎯 Career Goal
+<br />
 
-👉 Become a Top 1% Data Professional
-→ Start as Data Analyst
-→ Move to Data Engineer
-→ Transition into Data Scientist
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;
+![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-⚡ Fun Side
+<hr />
 
-😄 I enjoy solving hard SQL problems more than easy ones
-📊 I think in tables, joins, and data flows
-🧠 I like breaking complex systems into simple logic
+### 📊 Data & Analytics Tools
 
-📊 GitHub Stats
-🚀 Consistency > Motivation
-📅 Daily Learning & Building
-📌 Focus: Real-world projects over tutorials
-👀 Profile Views
+<br/>
 
-Your visit matters — thanks for stopping by! 😄
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) &nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) &nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) &nbsp;
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<!--
-**anumodit740/anumodit740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+### 🗄️ Databases & Data Platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<hr />
+
+### 🚀 Web Development (Supporting Skills)
+
+<br />
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) &nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<hr />
+
+### ⚒️ Platforms & Tools
+
+<br />
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<hr />
+
+## 🎯 My Journey
+
+<p>
+<b>🎓 Engineering Student (2027 Batch)</b> passionate about becoming a <b>Top 1% Data Professional</b>
+</p>
+
+**Career Path:**
+- 📊 Start as Data Analyst
+- 🔧 Move to Data Engineer
+- 🧠 Transition into Data Scientist
+
+**What I'm Currently Building:**
+- 📦 SQL Data Warehouse Project (Medallion Architecture)
+- ETL Pipelines & Data Modeling
+- Query Optimization & Indexing
+
+**What I'm Learning:**
+- ⚡ Advanced SQL (Window Functions, CTEs, Query Optimization)
+- 🔄 Data Engineering (Batch Processing & Pipeline Design)
+- 📈 Power BI & Business Intelligence
+- 🏗️ System Design for Data Systems
+
+<hr />
+
+## ⚡ Fun Facts About Me
+
+<p>
+😄 I enjoy solving hard SQL problems more than easy ones<br />
+📊 I think in tables, joins, and data flows<br />
+🧠 I like breaking complex systems into simple logic<br />
+☕ Coffee + SQL = My Happy Place
+</p>
+
+<hr />
+
+<h2>Github Stats</h2>
+<p align="center" style="width:100% display:flex flex-direction:column align-items:center justify-content:center"> 
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anumodit740&theme=dark)](https://git.io/streak-stats)
+ 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anumodit740&show_icons=true&locale=en&theme=tokyonight" alt="anumodit740" />
+</p>
+
+<hr />
+
+<p align="center">
+  <b>✨ Consistency > Motivation | Focus: Real-world projects over tutorials ✨</b>
+</p>
