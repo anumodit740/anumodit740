@@ -1,7 +1,7 @@
 
 👋 Hey, I'm Anumodit 
 
-🎓 Engineering Student (2026 Batch)
+🎓 Engineering Student (2027 Batch)
 📊 Aspiring Data Analyst → Data Engineer → Data Scientist
 💡 Passionate about solving real-world problems using data, tech, and logic
 
