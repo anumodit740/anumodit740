@@ -31,6 +31,8 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) &nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) &nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) &nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black) &nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-%2300A9F0.svg?style=for-the-badge&logo=python&logoColor=white) &nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 <hr />
@@ -40,13 +42,13 @@
 <br />
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <hr />
 
-### 🚀 Web Development (Supporting Skills)
+### 🚀 Web Development
 
 <br />
 
@@ -54,6 +56,26 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) &nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<hr />
+
+### 🤖 Machine Learning & Notebooks
+
+<br />
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=python&logoColor=white) &nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37726.svg?style=for-the-badge&logo=jupyter&logoColor=white) &nbsp;
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
+
+<hr />
+
+### 💻 LeetCode & Problem Solving
+
+<br />
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+
+**📈 600+ Problems Solved** | Consistent problem-solving enthusiast
 
 <hr />
 
@@ -82,22 +104,27 @@
 - 📦 SQL Data Warehouse Project (Medallion Architecture)
 - ETL Pipelines & Data Modeling
 - Query Optimization & Indexing
+- ML Models & Data Visualization Projects
 
 **What I'm Learning:**
 - ⚡ Advanced SQL (Window Functions, CTEs, Query Optimization)
 - 🔄 Data Engineering (Batch Processing & Pipeline Design)
 - 📈 Power BI & Business Intelligence
 - 🏗️ System Design for Data Systems
+- 🤖 Machine Learning & Predictive Analytics
+- 🎨 Advanced Data Visualization (Matplotlib, Seaborn)
 
 <hr />
 
 ## ⚡ Fun Facts About Me
 
 <p>
-😄 I enjoy solving hard SQL problems more than easy ones<br />
+😄 I enjoy solving hard SQL & LeetCode problems more than easy ones<br />
 📊 I think in tables, joins, and data flows<br />
 🧠 I like breaking complex systems into simple logic<br />
-☕ Coffee + SQL = My Happy Place
+☕ Coffee + SQL = My Happy Place<br />
+📚 Love learning through Jupyter notebooks and Google Colab<br />
+🎨 I combine data with beautiful visualizations
 </p>
 
 <hr />
