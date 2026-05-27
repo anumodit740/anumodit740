@@ -114,12 +114,11 @@ I'm an **aspiring Data Professional** with a genuine passion for data, systems a
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anumodit740&theme=dark)](https://git.io/streak-stats)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anumodit740&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anumodit740&show_icons=true&locale=en&theme=tokyonight)
 
 </div>
