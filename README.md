@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-I'm an **aspiring Data Professional** with a genuine passion for data, systems architecture, and logic-heavy problems. I love architecting data solutions that scale and designing systems that drive smarter decisions.
+I'm an **aspiring Data Professional** with a genuine passion for data, systems architecture, and logic-heavy problems. I love architecting data solutions that scale and designing systems that drive sm[...]
 
 **What drives me:**
 - 🏗️ Writing efficient SQL queries and designing robust data pipelines
@@ -88,7 +88,8 @@ I'm an **aspiring Data Professional** with a genuine passion for data, systems a
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/anumoditsh740/)
 
 **600+ Problems Solved** | Consistent problem-solving enthusiast across multiple platforms
 
