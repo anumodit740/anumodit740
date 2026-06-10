@@ -1,83 +1,80 @@
 <!--
-Premium GitHub Profile README — Anumodit
-Style: clean, modern, minimal, recruiter-friendly, GitHub-native
+Premium GitHub Profile README — Anumodit Shukla
+Clean · Modern · Recruiter-friendly · GitHub-native
 -->
 
 <p align="center">
-  <!-- Hero Banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,35:1A1A2E,70:16213E,100:0F3460&height=130&section=header&text=Anumodit&fontSize=38&fontColor=FFFFFF&fontAlignY=55&desc=Data%20Professional%20%7C%20Data%20Engineer%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=82&descSize=14"
-    alt="Anumodit — Header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D2137,65:0A4070,100:00D4FF&height=200&section=header&text=Anumodit%20Shukla&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Analytics%20Enthusiast%20%7C%20ML%20Practitioner&descAlignY=60&descSize=15&animation=fadeIn"
+    alt="Anumodit Shukla — Header"
   />
 </p>
 
 <p align="center">
-  <!-- Typing SVG -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3200&pause=600&color=00D4FF&center=true&vCenter=true&width=760&lines=Building+scalable+data+systems+%E2%80%A2+Solving+complex+data+problems+%E2%80%A2+Turning+data+into+decisions;Data+Engineering+%7C+Analytics+%7C+Machine+Learning;Coffee+%E2%98%95+%2B+SQL+Editor+%2B+A+Tough+Problem+%3D+My+Happy+Place"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=700&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+scalable+data+systems+%E2%80%A2+Solving+real-world+data+problems;SQL+%7C+Power+BI+%7C+Machine+Learning+%7C+Data+Analytics;Coffee+%E2%98%95+%2B+SQL+Editor+%2B+A+Tough+Problem+%3D+My+Happy+Place;Consistency+%3E+Motivation+%7C+Real+Projects+%3E+Tutorials"
+    alt="Typing animation"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/anumodit740">
-    <img src="https://img.shields.io/badge/GitHub-anumodit740-0D0D0D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+    <img src="https://img.shields.io/badge/GitHub-anumodit740-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- TODO: replace with your LinkedIn URL -->
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Anumodit-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  <a href="https://www.linkedin.com/in/anumodit-shukla-59aa18288">
+    <img src="https://img.shields.io/badge/LinkedIn-Anumodit%20Shukla-0A4070?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- TODO: replace with your email -->
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-0F3460?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  <a href="https://www.geeksforgeeks.org/user/anumoditsh740/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-anumoditsh740-00D4FF?style=for-the-badge&logo=geeksforgeeks&logoColor=black" />
   </a>
-  <!-- TODO: replace with your resume link -->
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/Resume-View-00D4FF?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume Badge" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anumodit740&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <br/>
 
 ---
 
-## 👋 Professional Summary
+## 👋 About Me
 
-I'm **Anumodit**, a **Data Professional** with a genuine passion for **data systems**, **architecture**, and **logic-heavy problems**. I love architecting data solutions that scale and designing systems that drive smarter decisions.
+I'm **Anumodit Shukla**, a data-focused professional who loves architecting **scalable data systems**, writing **efficient SQL**, and building **ML models that actually explain something**. I think in tables, joins, and data flows — and I'm on a mission to become a top-tier data professional.
 
-- 🎓 **Engineering Student** — **2027 Batch**
-- 🎯 Goal: Become a **Top 1% Data Professional** — from **Data Analyst** → **Data Engineer** → **Data Scientist**
-- 🧠 Focus: **Data Engineering**, **SQL**, **Analytics**, **Machine Learning**, and **Business Intelligence**
+- 🎓 **B.Tech — Biotechnology & Biochemical Engineering** · NIT Agartala
+- 🎯 Career Path: **Data Analyst → Data Engineer → Data Scientist**
+- 🧠 Focus: SQL, Data Warehousing, Power BI, Machine Learning, Analytics
 
 ---
 
-## 🧭 About Me
+## 🧭 What I Bring
 
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="55%" valign="top">
 
-### What I bring
-- **Advanced SQL**: window functions, CTEs, joins, query optimization, indexing
-- **Data Engineering mindset**: ETL pipelines, medallion architecture, data modeling
-- **Analytics that drives action**: Power BI dashboards, KPIs, storytelling with data
-- **Problem-solving focus**: 600+ problems solved on LeetCode & GeeksforGeeks
+### Skills in Action
+- **Advanced SQL** — window functions, CTEs, complex joins, query optimization, indexing
+- **Data Warehousing** — Medallion Architecture (Bronze → Silver → Gold), ETL pipelines
+- **Analytics** — Power BI dashboards, KPIs, EDA, storytelling with data
+- **Machine Learning** — end-to-end pipelines: feature engineering → model training → evaluation
+- **Problem Solving** — 600+ problems across LeetCode & GeeksforGeeks
 
-### What I value
-- **Consistency over Motivation**
-- **Real-world Projects over Tutorials**
-- **Systems that Scale**
-- **Clarity in Logic**
+### What I Value
+- Consistency over motivation
+- Real-world projects over tutorials
+- Systems that scale and insights that drive action
 
   </td>
-  <td width="42%" valign="top">
+  <td width="45%" valign="top">
 
 ### Quick Facts
-- 📍 Location: India
-- 💼 Open to: Internships / Full-time roles <!-- TODO: update -->
-- 🧩 Interests: Data Engineering, SQL, Power BI, ML
-- 🛠️ Tools I love: SQL, Python, Power BI, Git
+- 📍 India
+- 🎓 Engineering Student · 2027 Batch
+- 💼 Open to: Internships & Full-time roles
+- 🧩 Interests: SQL, Power BI, Data Engineering, ML
 - ☕ Fuel: Coffee + A Tough Problem
+- 🏆 600+ Problems Solved
 
   </td>
   </tr>
@@ -88,129 +85,95 @@ I'm **Anumodit**, a **Data Professional** with a genuine passion for **data syst
 ## 💪 Technical Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=00D4FF" />
-  <img src="https://img.shields.io/badge/SQL-1A1A2E?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=00D4FF" />
-  <img src="https://img.shields.io/badge/SQL%20Server-1A1A2E?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0F3460?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D4FF" />
+  <img src="https://img.shields.io/badge/SQL-0A4070?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00D4FF" />
+  <img src="https://img.shields.io/badge/SQL%20Server-0A4070?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00D4FF" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-1A1A2E?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-0D0D0D?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-0F3460?style=for-the-badge&logo=python&logoColor=00D4FF" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-0A4070?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=00D4FF" />
+  <img src="https://img.shields.io/badge/Seaborn-0A4070?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00D4FF" />
+  <img src="https://img.shields.io/badge/XGBoost-0A4070?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-0D0D0D?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/Excel-1A1A2E?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0F3460?style=for-the-badge&logo=python&logoColor=00D4FF" />
-  <img src="https://img.shields.io/badge/Jupyter-0D0D0D?style=for-the-badge&logo=jupyter&logoColor=F37726" />
-  <img src="https://img.shields.io/badge/Google%20Colab-1A1A2E?style=for-the-badge&logo=google-colab&logoColor=F9AB00" />
+  <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Excel-0A4070?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
+  <img src="https://img.shields.io/badge/Jupyter-0A4070?style=for-the-badge&logo=jupyter&logoColor=F37726" />
+  <img src="https://img.shields.io/badge/Google%20Colab-0D1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-1A1A2E?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=F05033" />
-  <img src="https://img.shields.io/badge/GitHub-0F3460?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-1A1A2E?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05033" />
+  <img src="https://img.shields.io/badge/GitHub-0A4070?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00D4FF" />
 </p>
 
 ---
 
 ## 🚀 My Journey
 
-- ✅ Started with **C++ + Python** and built strong **DSA & problem-solving fundamentals**
-- 📊 Learned **SQL** deeply — joins, CTEs, window functions, query optimization
-- 📈 Explored **Power BI** and **Excel** for dashboarding and business intelligence
-- 🧱 Now building a **SQL Data Warehouse** using the **Medallion Architecture**
-- 🔄 Working on **ETL pipelines**, **data modeling**, and **batch processing**
-- 🌱 Exploring **Machine Learning** and **predictive analytics** for real-world applications
-
----
-
-## 🗄️ Data Engineering Expertise
-
-- **ETL Pipelines** (extract, transform, validate, load with clean, testable structure)
-- **Data Warehousing** (Medallion Architecture — Bronze → Silver → Gold layers)
-- **SQL Optimization** (indexing, advanced joins, window functions, query performance)
-- **Data Modeling** (clean schemas, consistent metrics, reusable logic)
-- **Batch Processing** concepts and real-time pipeline fundamentals
-
----
-
-## 📊 Data Analytics Expertise
-
-- **Power BI dashboards** (KPIs, slicers, drill-downs, storytelling)
-- **Excel analysis** (structured reporting, pivots, clean workflows)
-- **Data visualization** (clarity-first charts, Matplotlib, Seaborn)
-- **Business intelligence mindset** (questions → insights → decisions)
-
----
-
-## 🤖 Machine Learning Expertise
-
-- **Data Preprocessing** (cleaning, missing values, encoding, scaling)
-- **ML Models** (baseline → tuned models, scikit-learn workflows)
-- **Model Evaluation** (metrics, cross-validation, error analysis)
-- **Notebooks** (Jupyter + Google Colab for exploration and experimentation)
+- ✅ Built strong **DSA & problem-solving** fundamentals with C++ and Python
+- 🗄️ Mastered **SQL deeply** — advanced joins, CTEs, window functions, query optimization
+- 📊 Built **Power BI dashboards** for banking risk, loan analytics, and business intelligence
+- 🏗️ Implemented a **production-grade SQL Data Warehouse** using Medallion Architecture on 60M+ rows
+- 🤖 Engineered a full **ML pipeline** predicting country stability with 81.6% accuracy using XGBoost
+- 🌱 Exploring **batch processing**, data orchestration, and system design for data-heavy applications
 
 ---
 
 ## 🌟 Featured Projects
 
-> If you share your exact repo links, replace the placeholders below with real links.
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏗️ SQL Data Warehouse (Medallion Architecture)</h3>
-      <p>End-to-end data warehouse built on Bronze → Silver → Gold layers with clean schema design and query optimization.</p>
+      <h3>🏗️ SQL Data Warehouse — Home Credit Risk</h3>
+      <p>Production-grade data warehouse on 60M+ rows using Medallion Architecture (Bronze→Silver→Gold) with full ETL pipelines, data quality framework, and risk segmentation views.</p>
       <p>
-        <a href="https://github.com/anumodit740/YOUR_WAREHOUSE_REPO"><b>Repo</b></a>
+        <b>Stack:</b> SQL Server · T-SQL · Medallion Architecture · Power BI
+      </p>
+      <p>
+        <a href="https://github.com/anumodit740/sql-data-warehouse-project"><b>📂 View Repo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔄 ETL Pipelines & Data Modeling</h3>
-      <p>Extract → transform → validate → load pipelines with clean, modular, testable structure.</p>
+      <h3>🌍 Geopolitics Prediction — Country Stability ML</h3>
+      <p>End-to-end ML system classifying 189 countries into stability risk tiers using 24 engineered socioeconomic features. XGBoost achieved 81.6% accuracy with 0.804 macro F1. Live Streamlit dashboard included.</p>
       <p>
-        <a href="https://github.com/anumodit740/YOUR_ETL_REPO"><b>Repo</b></a>
+        <b>Stack:</b> Python · XGBoost · Scikit-learn · Streamlit · Feature Engineering
       </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Power BI Dashboards</h3>
-      <p>Interactive dashboards with clean KPI design, drill-downs, and decision-ready business insights.</p>
       <p>
-        <a href="https://github.com/anumodit740/YOUR_POWERBI_REPO"><b>Repo</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧮 SQL Analysis Projects</h3>
-      <p>Real-world SQL: advanced joins, CTEs, window functions, aggregations, and performance thinking.</p>
-      <p>
-        <a href="https://github.com/anumodit740/YOUR_SQL_REPO"><b>Repo</b></a>
+        <a href="https://github.com/anumodit740/Geopolitics_prediction"><b>📂 View Repo</b></a> ·
+        <a href="https://geopoliticsprediction-4n86qou6o6gfg2hcdtyt44.streamlit.app/"><b>🚀 Live Demo</b></a>
       </p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 ML Models & Data Visualization</h3>
-      <p>End-to-end ML workflows: preprocessing → modeling → evaluation, with clear visual storytelling.</p>
+      <h3>🏦 Banking Risk & Loan Analytics Dashboard</h3>
+      <p>Interactive Power BI dashboard analyzing client profiles, loan exposure, deposits, income bands, and risk indicators across 4 dashboard views. Python EDA included.</p>
       <p>
-        <a href="https://github.com/anumodit740/YOUR_ML_REPO"><b>Repo</b></a>
+        <b>Stack:</b> Power BI · DAX · Python · Pandas · Seaborn
+      </p>
+      <p>
+        <a href="https://github.com/anumodit740/banking-risk-and-loan-analytics-dashboard-main"><b>📂 View Repo</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📌 Data Analytics Projects</h3>
-      <p>Business questions → clean datasets → analysis → actionable insights with beautiful visualizations.</p>
+      <h3>🗄️ SQL Data Warehouse Project (v2)</h3>
+      <p>Second iteration of the data warehouse with refined schema design, improved data modeling, and cleaner ETL logic.</p>
       <p>
-        <a href="https://github.com/anumodit740/YOUR_ANALYTICS_REPO"><b>Repo</b></a>
+        <b>Stack:</b> SQL Server · T-SQL · Data Modeling
+      </p>
+      <p>
+        <a href="https://github.com/anumodit740/SQL_datawarehouse_project"><b>📂 View Repo</b></a>
       </p>
     </td>
   </tr>
@@ -221,19 +184,16 @@ I'm **Anumodit**, a **Data Professional** with a genuine passion for **data syst
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anumodit740&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&text_color=94A3B8&icon_color=F2C811" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anumodit740&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&text_color=94A3B8&icon_color=F2C811&include_all_commits=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anumodit740&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=94A3B8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=anumodit740&theme=transparent&hide_border=true&ring=00D4FF&fire=0F3460&currStreakLabel=00D4FF&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=anumodit740&theme=transparent&hide_border=true&ring=00D4FF&fire=0A4070&currStreakLabel=00D4FF&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=anumodit740&bg_color=00000000&color=94A3B8&line=00D4FF&point=F2C811&area=true&hide_border=true"
-    alt="Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anumodit740&bg_color=00000000&color=94A3B8&line=00D4FF&point=F2C811&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -241,54 +201,51 @@ I'm **Anumodit**, a **Data Professional** with a genuine passion for **data syst
 ## 🧩 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=F2C811" />
+  <a href="https://leetcode.com/u/anumodit740/">
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=F2C811" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/anumoditsh740/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-1A1A2E?style=for-the-badge&logo=geeksforgeeks&logoColor=298D46" />
-  </a>
-  <!-- TODO: add Kaggle if you have it -->
-  <a href="YOUR_KAGGLE">
-    <img src="https://img.shields.io/badge/Kaggle-0F3460?style=for-the-badge&logo=kaggle&logoColor=00D4FF" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0A4070?style=for-the-badge&logo=geeksforgeeks&logoColor=00D4FF" />
   </a>
 </p>
 
 <p align="center">
-  <b>600+ Problems Solved</b> — Consistent problem-solving across multiple platforms
+  <b>600+ Problems Solved</b> — Consistent problem solver across multiple platforms
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Working On
 
-- 🏗️ Building a **SQL Data Warehouse** with Medallion Architecture (Bronze → Silver → Gold)
-- 🔄 Strengthening **ETL pipeline** design and **data modeling** fundamentals
-- 📊 Creating **premium Power BI dashboards** with decision-ready business insights
-- ⚡ Mastering **query optimization**, **advanced indexing**, and system design for data-heavy systems
+- 🏗️ Strengthening **Data Warehousing** — incremental loads, SCD Type 2, SQL Agent scheduling
+- 📊 Building more **Power BI dashboards** with advanced DAX and executive-level storytelling
+- 🤖 Extending **ML projects** with SHAP explainability and hyperparameter tuning
+- ⚡ Learning **system design** for data-heavy, high-throughput applications
 
 ---
 
-## 🧠 Professional Motto
+## 🧠 Motto
 
-> **"Consistency > Motivation | Real-world Projects > Tutorials — Let's build something that scales."**
+> **"Consistency > Motivation · Real-world Projects > Tutorials · Let's build something that scales."**
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <!-- TODO: replace with your LinkedIn -->
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-1A1A2E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <!-- TODO: replace with your email -->
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Reach%20Out-0F3460?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- TODO: replace with your portfolio if you have one -->
-  <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-View-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anumodit-shukla-59aa18288">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A4070?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/anumodit740">
+    <img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://geopoliticsprediction-4n86qou6o6gfg2hcdtyt44.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-00D4FF?style=for-the-badge&logo=streamlit&logoColor=black" />
+  </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,35:1A1A2E,70:16213E,100:0F3460&height=70&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0A4070,100:0D1117&height=100&section=footer" alt="Footer" />
 </p>
-
-<!-- End -->
